@@ -1,0 +1,14 @@
+[
+	{
+		"path":"#smartNode",
+		"nameLink":"Smart Node"
+	},
+	{
+		"path":"#powerNode",
+		"nameLink":"Power Node"
+	},
+	{
+		"path":"#masterNode",
+		"nameLink":"Master Node"
+	}
+]

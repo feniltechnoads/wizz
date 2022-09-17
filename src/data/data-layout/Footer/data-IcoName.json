@@ -1,0 +1,22 @@
+[
+	{
+		"IcoName":"fa fa-facebook",
+		"link": "https://www.facebook.com/"
+	},
+	{
+		"IcoName":"fa fa-twitter",
+		"link": "https://twitter.com/"
+	},
+	{
+		"IcoName":"fa fa-google-plus",
+		"link": "https://www.google.com/"
+	},
+	{
+		"IcoName":"fa fa-instagram",
+		"link": "https://www.instagram.com/"
+	},
+	{
+		"IcoName":"fa fa-linkedin",
+		"link": "https://www.linkedin.com/login"
+	}
+]

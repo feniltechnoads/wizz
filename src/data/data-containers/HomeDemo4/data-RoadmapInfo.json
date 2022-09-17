@@ -1,0 +1,58 @@
+[
+    {
+        "month":"Q1",
+        "year":"2019",
+        "title":" WIZZ started to plan to introduce DeFi Eco system",
+        "class": "date-content date-content1"
+    },
+    {
+        "month":"Q2",
+        "year":"2020",
+        "title":"Hire experts in the industry, to start develop from the screech",
+        "class": "date-content date-content2"
+    },
+    {
+        "month":"Q3",
+        "year":"2021",
+        "title":"DEVELOPMENT OF NEW UI",
+        "list1": "STARTED TO PROGRAMME AND DESIGN",
+        "list2": "DEVELOPMENTS OF NODE AND TOKENOMICS",
+        "list3": "LAUNCH OF THE WEBSITE",
+        "list4": "START TO SELL NODE",
+        "list5": "ONBOARD MARKETING TEAM",
+        "list6": "SOCIAL MEDIA MARKETING",
+        "class": "date-content date-content3"
+    },
+    {
+        "month":"Q4",
+        "year":"2022",
+        "title":"WHITEPAPER",
+        "list1": "PARTNERSHIPS",
+        "list2": "MARKETING CAMPAIGN",
+        "list3": "ON-CHAIN INTEGRATION DEVELOPMENT",
+        "list4": "DEFI EDUCATION",
+        "list5": "PURPOSE BUILT DEX",
+        "list6": "WIZZ DEFI PROTOCOL MIGRATION",
+        "list7": "SMART NODE NFT AIRDROPS",
+        "list8": "LIQUID NFT DEVELOPMENT",
+        "list9": "SMART CONTRACT DEVELOPMENT",
+        "class": "date-content date-content4"
+    },
+    {
+        "month":"EARLY",
+        "year":"2023",
+        "title":"PARTNERSHIP DEVELOPMENT",
+        "list1": "ON-CHAIN INTEGRATION DEVELOPMENT",
+        "list2": "DEX LISTING",
+        "list3": "DESIGN & DEVELOPMENT OF NODE NFT MARKETPLACE",
+        "list4": "STAKE TO ACCESS MODELS",
+        "list5": "FARMING",
+        "class": "date-content date-content5"
+    },
+    {
+        "month":"MID",
+        "year":"2023",
+        "title":"MORE TO BE ANNOUNCED",
+        "class": "date-content date-content6"
+    }
+]
