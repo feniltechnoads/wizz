@@ -67,7 +67,7 @@ const HomeDemo4Container = () => {
             title1="Node Up."
             title2="Contribute to"
             title3="the better world."
-            join= "Join the DeFi revolution through a fun Node. It's time to start a sayable passive income!"
+            join= "Join the DeFi revolution through a NFT Node. It's time to start a stable passive income!"
             link1="Buy Node"
             link2="White Paper"
             para= "Get your WIZZ Node today and earn a passive income for years."

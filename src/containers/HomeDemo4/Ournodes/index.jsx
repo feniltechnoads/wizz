@@ -12,6 +12,8 @@ import SectionHeading from "../../../components/SectionHeading";
 
 const Ournodes = () => {
   const [open, setopen] = useState(false);
+  const [opens, setopens] = useState(false);
+
   return (
     <>
       <section className="node section-padding-0-100">
@@ -143,10 +145,10 @@ const Ournodes = () => {
                           data-bs-target="#collapseTwo"
                           aria-expanded="false"
                           aria-controls="collapseTwo"
-                          onClick={() => setopen(!open)}
+                          onClick={() => setopens(!opens)}
                         >
                           Smart Node Features
-                          {open ? (
+                          {opens ? (
                             <FiChevronUp className="smartarrows upperArrow" />
                           ) : (
                             <FiChevronDown className="smartarrows downArrow" />

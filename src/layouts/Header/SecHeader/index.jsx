@@ -74,15 +74,11 @@ const SecHeader = ({ HeaderLogo, HeaderLogo2, dropdownItem }) => {
               </a>
             </li>
             <li className="lh-55px">
-              <Link
-                to={`/index-demo-4/login`}
-                className="btn login-btn ml-50"
-                data-hover
-              >
+              <a href="https://app.wizz.token" target="_blank" className="btn login-btn ml-50">
                 <span className="test" data-hover="Coming Soon..">
-                  Login
+                  App
                 </span>
-              </Link>
+              </a>
             </li>
           </ul>
         </div>

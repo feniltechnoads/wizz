@@ -54,23 +54,28 @@ export const TokenFeaturesMed = [
 export const Services = [
     {
         img:HomeDemo4Feature1,
-        title:"NFT Node"
+        title: "NFT Node",
+        description: "Purchasing a WIZZ NFT Node in an early tire can be a once-in-a-lifetime opportunity if you purchase WIZZ NFT node in an early tire at the cheapest price and receive the largest amount of Wizz tokens and Surprising reward as NFT."
     },
     {
         img:HomeDemo4Feature2,
-        title:"NFT Marketplace"
+        title:"NFT Marketplace",
+        description: "WIZZ NFT marketplace will play a fundamental role in connecting buyers and sellers. Some even go a step further by providing extra tools to you help create your own NFTs in a matter of minutes."
     },
     {
         img:HomeDemo4Feature3,
-        title:"Tokenomics"
+        title:"Tokenomics",
+        description: "Tokenomics is the study of how cryptocurrencies work within the broader ecosystem. WIZZ token is the vital part of our eco system. There are many ways to use WIZZ tokens in real life. More information will be found in white paper."
     },
     {
         img:HomeDemo4Feature4,
-        title:"Sustainability"
+        title:"Sustainability",
+        description: "One of our core concepts is to build a sustainable world with ultra-low emission, WIZZ token is stepping in to build a sustainable world with strong mission and vision for the future generations."
     },
     {
         img:HomeDemo4Feature5,
-        title:"DeFi"
+        title:"DeFi",
+        description: "Decentralized Finance (DeFi) takes the decentralized concept of blockchain and applies it to the world of finance. WIZZ DeFi concept is to born to influence to the millions of people in real life."
     },
     
 ]
